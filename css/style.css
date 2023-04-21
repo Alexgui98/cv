@@ -1,0 +1,12 @@
+.header1{
+  background-color: lightblue;
+}
+
+.main{
+  background-color: grey;
+}
+
+.name{
+  position: relative;
+  left: 50px;
+}
